@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1200&color=7C83FD&center=true&vCenter=true&width=700&lines=VRAJ+PATEL;AI+systems+builder;Human-in-the-loop+automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=1200&color=7C83FD&center=true&vCenter=true&width=700&lines=VRAJ+PATEL;AI+systems+builder;Human-in-the-loop;agent-first+operator" alt="VRAJ PATEL" />
 </div>
 
 <div align="center">
   <a href="https://www.vrajpatel.net" target="_blank"><img src="https://img.shields.io/badge/Website-vrajpatel.net-7C83FD?style=for-the-badge&logo=googlesearch&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/vraj-patel810" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-vraj-patel810-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/patelvraj810" target="_blank"><img src="https://img.shields.io/badge/GitHub-patelvraj810-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:patelvraj810@gmail.com"><img src="https://img.shields.io/badge/Email-patelvraj810%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
@@ -31,11 +32,11 @@
     </td>
     <td valign="top" width="50%">
       <h3>🖥️ IRIS</h3>
-      <strong>Tier 1 help desk agent, built at OANDA.</strong><br>
+      <strong>Tier 1 help desk agent.</strong><br>
       RAG over Jira tickets + Confluence runbooks. GCP Cloud Run + Firestore, delivered through Google Chat.<br>
       Walks users through fixes step by step. Escalates warm to Tier 2. Flags outage patterns across users. Auto-writes FAQ docs from recurring questions.<br><br>
       <blockquote>
-        Daily use by <strong>400–500</strong> staff at a regulated broker.
+        Daily use by <strong>400–500</strong> staff in a regulated environment.
       </blockquote>
     </td>
   </tr>
